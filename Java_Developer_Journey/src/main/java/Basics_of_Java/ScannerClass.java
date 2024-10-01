@@ -1,4 +1,4 @@
-package Java_Developer_Journey.src.main.java.Basics_of_Java;
+package main.java.Basics_of_Java;
 import java.util.Scanner;
 public class ScannerClass{
     public static void main(String[] args){

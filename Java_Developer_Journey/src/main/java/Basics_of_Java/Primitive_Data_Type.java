@@ -1,4 +1,4 @@
-package Java_Developer_Journey.src.main.java.Basics_of_Java;
+package main.java.Basics_of_Java;
 
 public class Primitive_Data_Type {
     public static void main(String[] args){

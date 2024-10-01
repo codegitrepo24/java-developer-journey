@@ -1,4 +1,4 @@
-package Java_Developer_Journey.src.main.java.Basics_of_Java;
+package main.java.Coding_Problems;
 
 public class Find_Area_of_Rectangle {
     public static int area(int length, int breadth)
