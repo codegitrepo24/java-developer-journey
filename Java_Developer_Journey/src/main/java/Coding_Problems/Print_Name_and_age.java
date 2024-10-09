@@ -27,5 +27,7 @@ public class Print_Name_and_age {
         Print_Name_and_age person = new Print_Name_and_age();
         person. setValue(name,age);
         person.getValue();
+
+        sc.close();
     }
 }

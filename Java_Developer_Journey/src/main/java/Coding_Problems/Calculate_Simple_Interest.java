@@ -1,4 +1,4 @@
-package main.java.Coding_Problem_Statement;
+package main.java.Coding_Problems;
 
 import java.util.Scanner;
 
