@@ -1,4 +1,4 @@
-## Java Functions and Control Flow - README
+## Java Functions and Control Flow 
 
 ### Introduction to Functions in Java
 
