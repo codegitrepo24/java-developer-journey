@@ -54,7 +54,7 @@ public class Methods {
         Scanner sc = new Scanner(System.in);
 
         // Create a new bank account with an initial balance
-        System.out.println("Enter the initial balance of ypur account: ");
+        System.out.println("Enter the initial balance of your account: ");
         double initialBalance = sc.nextDouble();
         Methods account = new Methods(initialBalance);
 
