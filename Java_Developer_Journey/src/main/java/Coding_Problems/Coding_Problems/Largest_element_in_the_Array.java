@@ -2,6 +2,23 @@ package Coding_Problems;
 
 import java.util.Scanner;
 
+/***** Algorithm ********/
+/*
+Reading Input:
+
+ - First, we read the size of the array n.
+ - Then, we store the elements of the array in arr[].
+   Finding the Largest Element:
+
+Initialize largest with the first element of the array.
+ - Iterate through the array from the second element to the end.
+ - If any element is greater than largest, update largest with that value.
+
+ Output:
+
+ - Print the largest element found. 
+*/
+
 public class Largest_element_in_the_Array {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -31,5 +48,6 @@ public class Largest_element_in_the_Array {
         sc.close();
 
     }
+
 
 }
