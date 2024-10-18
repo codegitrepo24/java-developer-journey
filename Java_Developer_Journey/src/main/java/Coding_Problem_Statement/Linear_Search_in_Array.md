@@ -1,3 +1,7 @@
+Here’s the updated version of the `.md` file with valid image URLs for the company logos:
+
+---
+
 # **Linear Search in an Array/List**  
 
 ---
@@ -115,12 +119,12 @@ main():
 ## **Companies Where This Question Was Asked:**  
 This problem is commonly asked in coding interviews at:  
 
-| **Company** | **Logo** |  
-| ------------| -------- |  
-| Qualcomm    | ![Qualcomm](https://upload.wikimedia.org/wikipedia/commons/9/90/Qualcomm_Logo_2018.png) |  
-| Deloitte    | ![Deloitte](https://upload.wikimedia.org/wikipedia/commons/6/6d/Deloitte.svg) |  
-| Wipro       | ![Wipro](https://upload.wikimedia.org/wikipedia/commons/f/f6/Wipro_Primary_Logo_Color_RGB.svg) |  
-| AVL India Pvt. Ltd. | ![AVL](https://upload.wikimedia.org/wikipedia/commons/1/1c/AVL_Logo.jpg) |  
+| **Company**           | **Logo** |  
+|-----------------------|----------|  
+| Qualcomm              | ![Qualcomm](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Qualcomm_logo.svg/320px-Qualcomm_logo.svg.png) |  
+| Deloitte              | ![Deloitte](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Deloitte.svg/320px-Deloitte.svg.png) |  
+| Wipro                 | ![Wipro](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Wipro_Primary_Logo_Color_RGB.svg/320px-Wipro_Primary_Logo_Color_RGB.svg.png) |  
+| AVL India Pvt. Ltd.   | ![AVL](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/AVL_Logo.svg/320px-AVL_Logo.svg.png) |  
 
 ---
 
