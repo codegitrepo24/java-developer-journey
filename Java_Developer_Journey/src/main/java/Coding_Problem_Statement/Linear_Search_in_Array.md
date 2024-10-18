@@ -1,6 +1,3 @@
-Here’s the updated version of the `.md` file with valid image URLs for the company logos:
-
----
 
 # **Linear Search in an Array/List**  
 
