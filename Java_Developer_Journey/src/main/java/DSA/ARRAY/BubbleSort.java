@@ -1,3 +1,5 @@
+package main.java.DSA.ARRAY;
+
 import java.util.Scanner;
 
 public class BubbleSort{
