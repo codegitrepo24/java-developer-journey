@@ -11,7 +11,8 @@ class InplaceRotateMatrix90Degree {
             // --> If i is the current row index from the top 𝑛−1−𝑖 n−1−i represents the
             // corresponding row index from the bottom.
 
-            // *** n-1-j***:This gives the position of the column index from the right of the
+            // *** n-1-j***:This gives the position of the column index from the right of
+            // the
             // matrix.
             // If 𝑗 j is the current column index from the left, 𝑛 − 1 − 𝑗 n−1−j
             // represents the corresponding column index from the right.*/
@@ -27,20 +28,21 @@ class InplaceRotateMatrix90Degree {
 
         }
     }
-    public static void main(String[] args){
+
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the testcase: ");
         int T = sc.nextInt();
 
-        for(int t=0;t<T;t++){
+        for (int t = 0; t < T; t++) {
             System.out.println("Enter the size of the matrix (nxn): ");
             int n = sc.nextInt();
 
             int[][] arr = new int[n][n];
 
             System.out.println("Enter the matrix elements row-wise: ");
-            for(int i=0;i<n;i++){
-                for(int j=0;j<n;j++){
+            for (int i = 0; i < n; i++) {
+                for (int j = 0; j < n; j++) {
                     arr[i][j] = sc.nextInt();
                 }
             }
@@ -48,8 +50,8 @@ class InplaceRotateMatrix90Degree {
             rotateMatrix(arr, n);
 
             System.out.println("Rotated Matrix: ");
-            for(int i=0;i<n;i++){
-                for(int j=0;j<n;j++){
+            for (int i = 0; i < n; i++) {
+                for (int j = 0; j < n; j++) {
                     System.out.print(arr[i][j] + " ");
                 }
                 System.out.println();
